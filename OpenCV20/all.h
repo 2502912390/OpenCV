@@ -1,0 +1,74 @@
+#pragma once
+
+#include <opencv2/opencv.hpp>
+using namespace cv;
+
+class Demo {
+	public:
+		void Demo01_Mat();
+		void Demo02_Mat();
+		void Demo03_Mat_Ope();
+		void Demo04_Picture();
+		void Demo05_Watch();
+		void Demo06_Video();
+		void Demo07_ColorChange();
+		void Demo08_MulChannel();
+		void Demo09_mimAndmax();
+		void Demo10_Logic();
+		void Demo11_binay();
+		void Demo12_LUC();
+		void Demo13_SizeChange();
+		void Demo14_Rotat();
+		void Demo15_TouShi();
+		void Demo16_Draw();
+		void Demo17_ROI();
+		void Demo18_PyrDown();
+		void Demo19_Pyr();
+		void Demo20_Bar();
+		void Demo21_Mouse();
+		void Demo22_BarMap();
+		void Demo23_CalcHist();
+		void Demo24_Hist();
+		void Demo25_Match();
+		void Demo26_filter();
+		void Demo27_Noise();
+		void Demo28_LinearFilter();
+		void Demo29_MidFilter();
+		void Demo30_SepFilter();
+		void Demo31_Edge1();
+		void Demo32_Edge2();
+		void Demo33_Connect();
+		void Demo34_DisTran();
+		void Demo35_Erode();
+		void Demo36_Dilate();
+		void Demo37_Morpho();
+		void Demo38_ximgproc();
+		void Demo39_Contours();
+		void Demo40_AreaAndLength();
+		void Demo41_Fitting();
+		void Demo42_Hull();
+		void Demo43_HoughLine();
+		void Demo44_Enclose();
+		void Demo45_Code();
+		void Demo46_Integral();
+		void Demo47_floodFill();
+		void Demo48_Watershed();
+		void Demo49_Harris();
+		void Demo50_KeyPoint();
+		void Demo51_SubPix();
+		void Demo52_ORB();
+		void Demo53_FeatureMatch();
+		void Demo54_Ransac();
+		void Demo55_Camera();
+		void Demo56_CameraFind();
+		void Demo57_Camera();
+		void Demo58_Pnp();
+		void Demo59_Absdiff();
+		void Demo60_FlowFarneback();
+		void Demo61_FlowPyrLK();
+		void Demo62_Knn();
+		void Demo63_SVM();
+		void Demo64_Camera();
+		void Demo65_Net();
+		void Demo66_Net();
+};
